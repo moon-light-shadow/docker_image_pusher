@@ -6,3 +6,4 @@ centos
 lammps/lammps
 ubuntu:24.10
 pytorch/torchserve:0.11.1-cpp-dev-cpu
+ubuntu:24.04
