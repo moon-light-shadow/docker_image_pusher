@@ -1,2 +1,6 @@
 cp2k/cp2k:2024.1
 mcubewustl/vasp_2022
+ubuntu
+archlinux
+centos
+lammps/lammps
