@@ -1,2 +1,1 @@
-vaspap1790/customer
-huibo1996/vaspinstall:latest
+metalcycling/vasp-os
